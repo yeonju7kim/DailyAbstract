@@ -1,0 +1,32 @@
+# Visible-infrared cross-modal pedestrian detection: a summary
+http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=220670&flag=1
+- 충분한 빛이 있으면, visible modal이 도움됨
+- the key challenges of visible and infrared images is to utilize the two modalities-between and their modality-specific noise mutually
+- cross-modal pedestrian detection
+  - 1）the difference between two different modalities  두 모달간의 차이
+  - 2）the cross-modal detectors application to the real scene 실제 적용
+- The application of cross-modal pedestrian detectors to the actual scene 
+  - cost analysis-related data annotation 비용 분석 관점
+  - real-time detection 실시간성
+  - cost-analysis of applications 비용 분석
+- The research aspects between two modalities 
+  - the misalignment 
+  - the inadequate fusion 적절하지 않은 fusion
+- dataset
+  - Korea Advanced Institute of Science and Technology （KAIST）
+  - the forward looking infrared radiometer（FLIR）
+  - the computer vision center-14（CVC-14）
+  - and the low-light visible-infrared parred（LLVIP）
+- evaluation metrics
+  - missed rate（MR）
+  - mean average precision（mAP）
+  - a pair of visible and thermal images in temporal （speed）
+- Challenges
+  - misalignment of visible-infrared modality feature modules
+  - all day and all weathers
+  - vehicle-mounted datasets, surveillance perspective datasets 다르다
+  - real-time detection
+  - partial or severe occluded pedestrians
+
+# RGB-T image analysis technology and application: A survey
+https://www.sciencedirect.com/science/article/pii/S0952197623001033
